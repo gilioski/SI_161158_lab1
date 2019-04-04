@@ -1,0 +1,5 @@
+commit 833617f1a41674ca3c9a769a4f6239a2eb61021a (HEAD -> logs, origin/master, master)
+Author: georgi ilioski <mew@hotmail.com>
+Date:   Thu Apr 4 09:42:07 2019 +0200
+
+    Initial commit
